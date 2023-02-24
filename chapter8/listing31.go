@@ -6,7 +6,7 @@ import (
 	"log"
 )
 
-func main() {
+func main31() {
 	c := make(map[string]interface{})
 	c["name"] = "go"
 	c["title"] = "ammer"
